@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yangkuan (David) Du</h1>
-<h3 align="center">A passionate full-stack developer from China</h3>
+<h3 align="center">A passionate full-stack software engineer from China</h3>
 
 - 📫 How to reach me **trickyheight830@gmail.com**
 
